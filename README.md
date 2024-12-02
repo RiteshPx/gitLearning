@@ -1,2 +1,2 @@
 # gitLearning
-learning the Github
+learning the Github today
